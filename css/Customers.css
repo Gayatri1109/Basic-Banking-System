@@ -1,0 +1,84 @@
+body {
+        font-family: 'sans-serif', serif;
+        text-decoration: none;
+        
+    }
+    /* navbar css starts here  */
+    
+    .bg-light {
+        background-color: #dbe4f0!important;
+        height:45px;
+    }
+    
+    .navbar-brand {
+        font-family: 'Georgia',sans-serif;
+        font-style:normal;
+        font-size: 1.5rem;
+        color: #800080!important;
+    }
+    
+    .nav-link {
+        color: black!important;
+        font-family: 'Noto Sans JP', sans-serif;
+    }
+    
+    .nav-link:hover {
+        background-color: #fff;
+        transition:0.6s ease;
+    }
+    /* navbar css ends here  */
+   .my-info a{
+       color: black;
+       background-color: transparent;
+       text-decoration: none;
+    }
+    .my-info {
+        font-family: 'serif', sans-serif;
+        margin-top: 3%;
+        text-decoration: none;
+        color:black;
+    }
+    
+    .sendMoney {
+        text-decoration: none;
+        padding: 1rem 1.2rem;
+        background-color:#33FFCC !important;
+        margin-left: 10px;
+        padding: 0.75rem;
+        transition: all 0.6s ease;
+        border-radius: 0.5rem;
+        border:ridge white;
+    }
+    
+    .sendMoney:hover {
+        background-color: #ffcccc !important;
+        color: black!important;
+    }
+    
+    
+    
+    .heading {
+        margin-top: 0%;
+        text-align: center;
+    }
+    
+    tr,
+    th {
+        height: 50px;
+        border: 1px;
+        border-style: solid;
+        border-color: black;
+    }
+    
+    table {
+        border: 1px;
+        border-collapse: collapse;
+        margin-top: 3%;
+        margin-left: 390px;
+        padding-left:200px;
+        text-align: center;
+        background-color: #eee8aa;
+        color: black;
+        border-style: solid;
+        border-color: black;
+    }
