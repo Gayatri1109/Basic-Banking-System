@@ -34,7 +34,7 @@ body{
 /* content css starts here  */
 
 .hero-content{
-    height: 75vh;
+    height: 80vh;
     color: #000000;
     padding:none;
     margin-bottom:none;
@@ -91,25 +91,27 @@ footer {
 } 
  
 .end h6 a{
-    margin-left:-80%;
     color:#800000;
 }
 .socialMedia h6{
     margin-top:-2%;
-    padding-top:0%;
+    padding-top:3%;
     margin-left:1%;
 }
 .gmail {
+    margin:10px;
     width: 10px;
     color: #EA4335;
 }
 
 .Linkedin {
+    margin:10px;
     width: 10px;
     color: #3299ee;
 }
 
 .github {
+    margin:10px;
     width: 10px;
     color: #0a0a0a;
 }
